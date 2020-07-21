@@ -28,7 +28,7 @@ var MainPage = `
 
 <script>
     window.onload = function () {
-        document.getElementById("shk_code").focus();
+        document.getElementById("code").focus();
     };
 </script>
 </body>
